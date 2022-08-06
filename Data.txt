@@ -1,0 +1,57 @@
+{
+  "consumerId": "C01",
+  "propertyId": "P01",
+  "buildingSqft": 200,
+  "buildingType": "Owner",
+  "buildingStoreys": 5,
+  "buildingAge": 2,
+  "costOfTheAsset": 9,
+  "salvageValue": 3,
+  "usefulLifeOfTheAsset": 3
+}
+
+
+{
+  "consumerId": "C01",
+  "propertyId": "P01",
+  "buildingSqft": 2000,
+  "buildingType": "Owner",
+  "buildingStoreys": 5,
+  "buildingAge": 2,
+  "costOfTheAsset": 9,
+  "salvageValue": 3,
+  "usefulLifeOfTheAsset": 3
+}
+
+
+{
+  "consumerId": "C01",
+  "businessId": "B01",
+  "consumerName": "Shivam",
+  "consumerEmail": "Shivam@sutar.com",
+  "consumerPan": "OPSNA2238H",
+  "businessOverview": "Sole Proprietorships",
+  "validityOfConsumer": 2,
+  "agentId": 1,
+  "agentName": "Ritik",
+  "businessType": "Food",
+  "annualTurnOver": 1000000,
+  "totalEmployees": 100,
+  "capitalInvested": 200000
+}
+
+{
+  "consumerId": "C01",
+  "businessId": "B01",
+  "consumerName": "Ritik",
+  "consumerEmail": "Ritik@Mail.com",
+  "consumerPan": "OPSNA2238H",
+  "businessOverview": "Sole Proprietorships",
+  "validityOfConsumer": 2,
+  "agentId": 1,
+  "agentName": "Shivam",
+  "businessType": "Food",
+  "annualTurnOver": 1000000,
+  "totalEmployees": 100,
+  "capitalInvested": 200000
+}
